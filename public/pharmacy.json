@@ -1,0 +1,79 @@
+[
+    {
+       "id":1,
+       "name":"Adalimab",
+       "img":"https://www.hplbd.com/products/Adalimab_40-mg.jpg",
+       "des":"Adalimumab is a recombinant human IgG1 monoclonal antibody specific for human tumor necrosis factor (TNF). Adalimumab binds specifically to TNF-alpha and blocks its interaction with the p55 and p75 cell surface TNF receptors. Adalimumab also lyses surface TNF expressing cells in vitro in the presence of complement. TNF is a naturally occurring cytokine that is involved in normal inflammatory and immune responses. Elevated levels of TNF are found in the synovial fluid of patients with Rheumatoid Arthritis, Juvenile Idiopathic Arthritis, Psoriatic Arthritis, and Ankylosing",
+       "price":200
+    },
+    {
+       "id":2,
+       "name":"Actilac",
+       "img":"https://www.hplbd.com/products/Actilac-Syrup_200ml.jpg",
+       "des":"Adalimumab is a recombinant human IgG1 monoclonal antibody specific for human tumor necrosis factor (TNF). Adalimumab binds specifically to TNF-alpha and blocks its interaction with the p55 and p75 cell surface TNF receptors. Adalimumab also lyses surface TNF expressing cells in vitro in the presence of complement. TNF is a naturally occurring cytokine that is involved in normal inflammatory and immune responses. Elevated levels of TNF are found in the synovial fluid of patients with Rheumatoid Arthritis, Juvenile Idiopathic Arthritis, Psoriatic Arthritis, and Ankylosing",
+       "price":200
+    },
+    {
+       "id":3,
+       "name":"Adapel",
+       "img":"https://www.hplbd.com/products/Adapel-Cream-10-mg.jpg",
+       "des":"Adalimumab is a recombinant human IgG1 monoclonal antibody specific for human tumor necrosis factor (TNF). Adalimumab binds specifically to TNF-alpha and blocks its interaction with the p55 and p75 cell surface TNF receptors. Adalimumab also lyses surface TNF expressing cells in vitro in the presence of complement. TNF is a naturally occurring cytokine that is involved in normal inflammatory and immune responses. Elevated levels of TNF are found in the synovial fluid of patients with Rheumatoid Arthritis, Juvenile Idiopathic Arthritis, Psoriatic Arthritis, and Ankylosing",
+       "price":200
+    },
+    {
+       "id":4,
+       "name":"Adribin",
+       "img":"https://www.hplbd.com/products/Adribin_10-mg-5-ml.jpg",
+       "des":"Adalimumab is a recombinant human IgG1 monoclonal antibody specific for human tumor necrosis factor (TNF). Adalimumab binds specifically to TNF-alpha and blocks its interaction with the p55 and p75 cell surface TNF receptors. Adalimumab also lyses surface TNF expressing cells in vitro in the presence of complement. TNF is a naturally occurring cytokine that is involved in normal inflammatory and immune responses. Elevated levels of TNF are found in the synovial fluid of patients with Rheumatoid Arthritis, Juvenile Idiopathic Arthritis, Psoriatic Arthritis, and Ankylosing",
+       "price":200
+    },
+    {
+       "id":5,
+       "name":"Eye Drops",
+       "img":"https://www.hplbd.com/products/Allet_eye-drop-copy.jpg",
+       "des":"Adalimumab is a recombinant human IgG1 monoclonal antibody specific for human tumor necrosis factor (TNF). Adalimumab binds specifically to TNF-alpha and blocks its interaction with the p55 and p75 cell surface TNF receptors. Adalimumab also lyses surface TNF expressing cells in vitro in the presence of complement. TNF is a naturally occurring cytokine that is involved in normal inflammatory and immune responses. Elevated levels of TNF are found in the synovial fluid of patients with Rheumatoid Arthritis, Juvenile Idiopathic Arthritis, Psoriatic Arthritis, and Ankylosing",
+       "price":200
+    },
+    {
+       "id":6,
+       "name":"Angenta",
+       "img":"https://www.hplbd.com/products/Angenta_Tablet.jpg",
+       "des":"Adalimumab is a recombinant human IgG1 monoclonal antibody specific for human tumor necrosis factor (TNF). Adalimumab binds specifically to TNF-alpha and blocks its interaction with the p55 and p75 cell surface TNF receptors. Adalimumab also lyses surface TNF expressing cells in vitro in the presence of complement. TNF is a naturally occurring cytokine that is involved in normal inflammatory and immune responses. Elevated levels of TNF are found in the synovial fluid of patients with Rheumatoid Arthritis, Juvenile Idiopathic Arthritis, Psoriatic Arthritis, and Ankylosing",
+       "price":200
+    },
+    {
+       "id":7,
+       "name":"Aroxol",
+       "img":"https://www.hplbd.com/products/Aroxol_Syrup_15-ml.jpg",
+       "des":"Adalimumab is a recombinant human IgG1 monoclonal antibody specific for human tumor necrosis factor (TNF). Adalimumab binds specifically to TNF-alpha and blocks its interaction with the p55 and p75 cell surface TNF receptors. Adalimumab also lyses surface TNF expressing cells in vitro in the presence of complement. TNF is a naturally occurring cytokine that is involved in normal inflammatory and immune responses. Elevated levels of TNF are found in the synovial fluid of patients with Rheumatoid Arthritis, Juvenile Idiopathic Arthritis, Psoriatic Arthritis, and Ankylosing",
+       "price":200
+    },
+    {
+       "id":8,
+       "name":"Arthrofen",
+       "img":"https://www.hplbd.com/products/Arthrofen_Plus_Injection-2ml.jpg",
+       "des":"Adalimumab is a recombinant human IgG1 monoclonal antibody specific for human tumor necrosis factor (TNF). Adalimumab binds specifically to TNF-alpha and blocks its interaction with the p55 and p75 cell surface TNF receptors. Adalimumab also lyses surface TNF expressing cells in vitro in the presence of complement. TNF is a naturally occurring cytokine that is involved in normal inflammatory and immune responses. Elevated levels of TNF are found in the synovial fluid of patients with Rheumatoid Arthritis, Juvenile Idiopathic Arthritis, Psoriatic Arthritis, and Ankylosing",
+       "price":200
+    },
+    {
+       "id":9,
+       "name":"Aroxol",
+       "img":"https://www.hplbd.com/products/Aroxol_Syrup_15-ml.jpg",
+       "des":"Adalimumab is a recombinant human IgG1 monoclonal antibody specific for human tumor necrosis factor (TNF). Adalimumab binds specifically to TNF-alpha and blocks its interaction with the p55 and p75 cell surface TNF receptors. Adalimumab also lyses surface TNF expressing cells in vitro in the presence of complement. TNF is a naturally occurring cytokine that is involved in normal inflammatory and immune responses. Elevated levels of TNF are found in the synovial fluid of patients with Rheumatoid Arthritis, Juvenile Idiopathic Arthritis, Psoriatic Arthritis, and Ankylosing",
+       "price":200
+    },
+    {
+       "id":10,
+       "name":"Avanza",
+       "img":"https://www.hplbd.com/products/Avanza%20pack%202%20mg.jpg",
+       "des":"Adalimumab is a recombinant human IgG1 monoclonal antibody specific for human tumor necrosis factor (TNF). Adalimumab binds specifically to TNF-alpha and blocks its interaction with the p55 and p75 cell surface TNF receptors. Adalimumab also lyses surface TNF expressing cells in vitro in the presence of complement. TNF is a naturally occurring cytokine that is involved in normal inflammatory and immune responses. Elevated levels of TNF are found in the synovial fluid of patients with Rheumatoid Arthritis, Juvenile Idiopathic Arthritis, Psoriatic Arthritis, and Ankylosing",
+       "price":200
+    },
+    {
+       "id":11,
+       "name":"Arofrez",
+       "img":"https://www.hplbd.com/products/Arofrez_2.jpg",
+       "des":"Adalimumab is a recombinant human IgG1 monoclonal antibody specific for human tumor necrosis factor (TNF). Adalimumab binds specifically to TNF-alpha and blocks its interaction with the p55 and p75 cell surface TNF receptors. Adalimumab also lyses surface TNF expressing cells in vitro in the presence of complement. TNF is a naturally occurring cytokine that is involved in normal inflammatory and immune responses. Elevated levels of TNF are found in the synovial fluid of patients with Rheumatoid Arthritis, Juvenile Idiopathic Arthritis, Psoriatic Arthritis, and Ankylosing",
+       "price":200
+    }
+ ]

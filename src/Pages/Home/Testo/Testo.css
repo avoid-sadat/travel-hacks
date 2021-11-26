@@ -1,0 +1,38 @@
+* {   
+    box-sizing: border-box;   
+}     
+  
+.column {   
+        /* box toward left of the window screen */  
+    float: left;   
+        /*divide each counter box in equal size*/  
+        /* 4 counters of 25% of screen size*/  
+    width: 25%;   
+        /*spacing between each box */  
+    padding: 4px;   
+}   
+      
+.row {   
+            /* Specify the margin for the row class */  
+    margin: 3px;  
+}   
+      
+/* Style the class named block*/  
+.block {   
+    padding: 10px;   
+    text-align: center;   
+    background-color: #5a5770;   
+    color: white;   
+    }   
+  
+/* Provide styling for when mouse will move over the counter*/    
+.block:hover {   
+    transform: scale(1.1);   
+    background-color: brown;   
+    transition-duration: 2s;   
+    color: white;   
+}   
+      
+.fa {   
+    font-size: 50px;   
+}   
